@@ -27,3 +27,4 @@ Each group member will contribute to the project through GitHub. Individual chan
 
 ## Course Project
 **Assignment 2.0 / 2.1 — Art Resources Group Project**
+
