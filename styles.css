@@ -1,0 +1,61 @@
+/* General page styles */
+body {
+  margin: 0;
+  background-color: #f5f2ec;
+  color: #29332f;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+/* Header and footer */
+header,
+footer {
+  padding: 2rem 1rem;
+  background-color: #24483f;
+  color: #ffffff;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Main content */
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+section {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background-color: #ffffff;
+  border: 1px solid #d6ded8;
+  border-radius: 8px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+/* Links */
+a {
+  color: #245c49;
+}
+
+a:hover {
+  text-decoration-thickness: 3px;
+}
+
+a:focus-visible {
+  outline: 3px solid #245c49;
+  outline-offset: 4px;
+}
+
+/* Images */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
